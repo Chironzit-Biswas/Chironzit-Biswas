@@ -54,7 +54,7 @@
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- ================= PROJECTS ================= 
 ## 🚀 Featured Projects
 
 ### 🌐 MERN Projects
@@ -64,6 +64,7 @@
 
 - 🔗 **Portfolio Website**  
   👉 Live: https://your-portfolio.com  
+ --> 
 
 ### 🎮 Unity Games
 - 🎮 **2D Mobile Game**  
@@ -72,7 +73,7 @@
 - 🎮 **3D Adventure Game**  
   👉 Demo: https://your-demo-link.com  
 
----
+--- 
 
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
